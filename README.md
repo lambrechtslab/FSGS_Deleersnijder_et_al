@@ -7,7 +7,7 @@ This repository contains code related to data processing and downstream analysis
 # Data Availability
 
 ## Processed & filtered single-nucleus RNA-sequencing (snRNA-seq) data
-Processed snRNA-seq data (i.e., annotated Seurat object with all cell types included) are available on EGA, including barcode files, features, count matrices, and associated metadata.
+Processed snRNA-seq data (i.e., annotated Seurat object with all cell types included) are available from European Genome-Phenome Archive (EGA), including barcode files, features, count matrices, and associated metadata. Data requests will be reviewed by the UZLeuven-VIB data access committee and data can be released upon the signing of a Data Transfer Agreement that will include the necessary conditions to guarantee the protection of personal data (according to European GDPR law).
 
 ## Gene sets used for quality control
 Genes related to cell stress can be found in the “stress.genes.csv”-file.
